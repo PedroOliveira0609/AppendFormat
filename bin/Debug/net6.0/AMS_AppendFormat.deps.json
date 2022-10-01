@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AMS_AppendFormat/1.0.0": {
+        "runtime": {
+          "AMS_AppendFormat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMS_AppendFormat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
